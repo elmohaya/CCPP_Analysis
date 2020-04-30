@@ -1,6 +1,6 @@
 # CCPP_Analysis
 
-##References
+## References
 
 - Pınar Tüfekci, Prediction of full load electrical power output of a base load operated combined cycle power plant using machine learning methods, International Journal of Electrical Power & Energy Systems, Volume 60, September 2014, Pages 126-140, ISSN 0142-0615
 
