@@ -1,6 +1,6 @@
 # CCPP_Analysis
 
-In this project, we analyze a dataset describing a Combined Cycle Power Plant. The objective of this analysis is to find insights about the plant physical variables to improve safety, performance, and reduce overall waste and cost.
+In this project, we analyze a dataset describing a Combined Cycle Power Plant. The objective of this analysis is to find insights about the plant physical variables to improve safety, performance, and reduce overall waste and cost. this repository contains the following files:
 
 ## References
 
