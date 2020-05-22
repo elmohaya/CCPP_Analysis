@@ -1,8 +1,15 @@
 # CCPP_Analysis
 
-In this project, we analyze a dataset describing a Combined Cycle Power Plant. The objective of this analysis is to find insights about the plant physical variables to improve safety, performance, and reduce overall waste and cost. this repository contains the following files:
+In this project, we analyze a dataset describing a Combined Cycle Power Plant. The objective of this analysis is to find insights about the plant's physical variables to improve safety, performance, and reduce overall waste and cost. In regular power plants, electricity is produced by burning fossil fuels and allowing mechanical turbines to generate a magnetic field that eventually is transformed into a high voltage form of power. The efficiency of such processes is about 30-33%. Combined Cycle Power Plant introduces more complex processes to increase efficiency, thus, generating more electricity. Its efficiency can reach up to 60%. this can be done through the implementation of steam turbines that is generated using the excess heat coming out of the gas turbines. Here, we look deeper into such processes by analyzing a relevant real-multivariant dataset with `9568 samples` and `4 parameters`. These data had been collected between 2006-2011 (6 years).
 
-- README.md --- This file!
+
+
+This repository contains the following files:
+
+- README.md                             --- This file!
+- CCPP.csv                              --- The data file in CSV format.
+- CCPP_Analysis.ipynb                   --- The analysis notebook
+- Combined_Cycle_Power_Planr_report.pdf --- The final report 
 
 ## References
 
